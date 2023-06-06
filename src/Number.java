@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class number {
+public class Number {
     public static void main(String []args)
     {
         System.out.println("\n------GUESS THE NUMBER------\n");
